@@ -5,7 +5,7 @@
 - :rocket: Founder of [Enyrus Technology](https://www.enyrus.com/)
 - :hammer_and_wrench: I’m currently working on social media app project made using NodeJs and React Native
 - :books: I’m currently learning Javascript, NodeJs and ReactNative
-- :mailbox: Find me on:[Linkedin](https://www.linkedin.com/in/gusttavomaltez/), [Instagram](https://www.instagram.com/gusttavomaltez/)
+- :mailbox: Find me on: [Linkedin](https://www.linkedin.com/in/gusttavomaltez/), [Instagram](https://www.instagram.com/gusttavomaltez/)
   
 <a href="https://github.com/dnsgusttavo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsgusttavo&hide_langs_below=1" />
