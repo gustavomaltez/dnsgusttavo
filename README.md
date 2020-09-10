@@ -3,8 +3,8 @@
 
 ##### Hi! Welcome to my GitHub! :wave: :rocket:
 
-I'm Gustavo Maltez and i develop <strong>awesome apps</strong> with <strong>ReactNative</strong>.<br>
-I am currently studying Software Engenering at Federal University of Ceara and participing of Trainee Program of [@includejr](https://includejr.com.br/). I use the Javascript     MERN Stack, more focused on app development with ReactNative. <br><br>
+My name is Gustavo Maltez and i develop <strong>awesome apps</strong> with <strong>ReactNative</strong>.<br>
+I'm currently studying Software Engenering at Federal University of Ceara and participing of Trainee Program of [@includejr](https://includejr.com.br/). I use the Javascript     MERN Stack, more focused on app development with ReactNative. <br><br>
 My goal is contribute to make a better world with my code lines 👨‍💻:rocket:.<br>
 :pushpin: Find me on: [LinkedIn](https://linkedin.com/in/gusttavomaltez) and [Instagram](https://www.instagram.com/gusttavomaltez/).
 
