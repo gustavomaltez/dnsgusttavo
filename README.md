@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gustavomaltez/gustavomaltez/master/app.gif" min-width="400px" max-width="380px" width="380px" align="right" alt="App Gif">
+<img src="https://raw.githubusercontent.com/gustavomaltez/gustavomaltez/master/app.gif" max-width="300px" width="300px" align="right" alt="App Gif">
 
 # Hi! Welcome to my GitHub! :wave: :rocket:
 
