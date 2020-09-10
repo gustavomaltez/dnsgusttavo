@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/gustavomaltez/gustavomaltez/master/app.gif" width="40%" align="right" alt="App Gif">
+<img src="https://raw.githubusercontent.com/gustavomaltez/gustavomaltez/master/app.gif" width="300px" align="right" alt="App Gif">
 
 ##### Hi! Welcome to my GitHub! :wave: :rocket:
 
