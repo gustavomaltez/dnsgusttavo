@@ -1,4 +1,4 @@
-<img src="/app.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+<img src="/app.gif" min-width="400px" max-width="380px" width="380px" align="right" alt="App Gif">
 
 # Hi! Welcome to my GitHub! :wave: :rocket:
 
@@ -10,9 +10,5 @@
 :pushpin: Find me on: [LinkedIn](https://linkedin.com/in/gusttavomaltez) and [Instagram](https://www.instagram.com/gusttavomaltez/).
 
 <a href="https://github.com/gustavomaltez">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavomaltez&show_icons=true&line_height=25&count_private=true&include_all_commits=true&hide_title=true&bg_color=FEFEFE&icon_color=33BB44&title_color=33bb44" alt="Gustavo Maltez github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavomaltez&show_icons=true&line_height=25&count_private=true&include_all_commits=true&hide_title=true&bg_color=FEFEFE&icon_color=33BB44&title_color=33bb44" alt="Gustavo Maltez github stats"/>
 </a>
- 
- 
-
-
