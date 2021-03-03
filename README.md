@@ -5,7 +5,7 @@ I study Software Engineering at Federal University of Ceara and work to [@includ
 
 :pushpin: [LinkedIn](https://linkedin.com/in/gusttavomaltez) 
 :pushpin: [Instagram](https://www.instagram.com/gusttavomaltez/).
-:pushpin: [Rocketseat](https://app.rocketseat.com.br/me/gusttavomaltez/).
+:pushpin: [Rocketseat](https://app.rocketseat.com.br/me/gustavomaltez).
 
 <a href="https://github.com/gustavomaltez">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavomaltez&show_icons=true&theme=dark&show_icons=true&line_height=24&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0D1117" alt="Gustavo Maltez github stats"/>
