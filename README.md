@@ -1,10 +1,9 @@
 
 Hello! I'm Gustavo Maltez! 
 
-I study Software Engineering at Federal University of Ceara and work to [@includejr](https://includejr.com.br/). Currently i'm developing many projects with javascript using ReactNative, ReactJS, NodeJs, Electron and others awesome technologies. 
+I study Software Engineering at Federal University of Ceara and develop projects with javascript using ReactNative, ReactJS, NodeJs, Electron and others awesome technologies. 
 
 :pushpin: [LinkedIn](https://linkedin.com/in/gusttavomaltez) 
-:pushpin: [Instagram](https://www.instagram.com/gusttavomaltez/).
 :pushpin: [Rocketseat](https://app.rocketseat.com.br/me/gustavomaltez).
 
 <a href="https://github.com/gustavomaltez">
