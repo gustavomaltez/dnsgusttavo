@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generates Commit Snake Animation SVG file
 
 on:
   schedule: # execute every 12 hours
@@ -7,10 +7,9 @@ on:
 
 jobs:
   build:
-    name: Generates Commit Snake Animation SVG file.
+    name: Generates Commit Snake Animation SVG file
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
