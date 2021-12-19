@@ -3,7 +3,7 @@ Hello! I'm Gustavo Maltez!
 
 I study Software Engineering at Federal University of Ceara and develop projects with javascript using ReactNative, ReactJS, NodeJs, Electron and others awesome technologies. 
 
-:pushpin: [LinkedIn](https://linkedin.com/in/gusttavomaltez) 
+:pushpin: [LinkedIn](https://www.linkedin.com/in/gustavommaltez/) 
 :pushpin: [Rocketseat](https://app.rocketseat.com.br/me/gustavomaltez).
 
 <a href="https://github.com/gustavomaltez">
