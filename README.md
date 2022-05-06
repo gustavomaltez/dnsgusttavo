@@ -1,10 +1,10 @@
 
 Hello! I'm Gustavo Maltez! 
 
-👉 Studying Software Engineering at Federal University.
-👉 Front-end software developer.
-👉 Working at SOAP Health.
-👉 In love with software development.
+👉 Studying Software Engineering at Federal University.<br>
+👉 Front-end software developer.<br>
+👉 Working at SOAP Health.<br>
+👉 In love with software development.<br>
 
 📌 Reach me on [LinkedIn](https://www.linkedin.com/in/gustavommaltez/).
 
