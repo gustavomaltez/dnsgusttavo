@@ -1,7 +1,7 @@
 
 Hello! I'm Gustavo Maltez! 
 
-👉 Studying Software Engineering at Federal University.<br>
+👉 Studying Software Engineering at Federal University of Ceará.<br>
 👉 Front-end software developer.<br>
 👉 Working at SOAP Health.<br>
 👉 In love with software development.<br>
