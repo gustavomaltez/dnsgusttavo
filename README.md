@@ -1,7 +1,8 @@
 
 Hello! I'm Gustavo Maltez! 
 
-👉 Front-end software developer.<br>
+👉 Full-stack software developer.<br>
+👉 Learning [Deno](https://deno.land/).<br>
 👉 Working at SOAP Health.<br>
 👉 In love with software development.<br>
 ⚠️ I'm building my personal blog, check it out :) [gmaltez.dev](https://gmaltez.dev/).<br>
